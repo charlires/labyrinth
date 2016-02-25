@@ -2,4 +2,4 @@
 
 ## BFS algorith (Breadth-first search)
 
-### using pure Javascript
+### using vanilla Javascript
